@@ -3,7 +3,7 @@
 <h3 align="center">A Computer Engineering student from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-- 🔭 I’m currently working on **an event management system for my university**
+- 🔭 I’m currently in my third year of university**
 
 - 🌱 I’m currently learning **GraphQL and Nest.js**
 
