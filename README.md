@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GraphQL and Nest.js**
 
-- 👯 I’m looking to collaborate on **research projects**
+- 👯 I’m looking to work on **research projects** and **internships**
 
 - 💬 Ask me about **React, Springboot and SQL**
 
